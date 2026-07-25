@@ -25,6 +25,7 @@ PACMAN_PKGS=(
   python-mutagen
   python-pip
   python-pipx
+  qutebrowser
 )
 
 MISSING_PACMAN=()
